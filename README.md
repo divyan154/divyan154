@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building *scalable full-stack apps* with *MERN & Next.js*  
+- 🔭 Currently building *scalable full-stack apps* with *MERN , FastApi and Next.js*  
 - 🤖 Exploring *AI integration* (Gemini API, NLP, Chatbots) into web apps  
 - 🌱 Learning *system design* and advanced *cloud deployment* practices  
 - 💡 Passionate about creating apps that are *practical, intelligent, and user-first*  
@@ -77,8 +77,9 @@ A *campground sharing & reviewing app* with rich features.
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyan154/)  
- | [Twitter](https://x.com/Divyans57775024)| [Email](mailto:divyansharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyan154/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Divyans57775024) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:divyansh.sharma9654@gmail.com)
 
 
 ---
