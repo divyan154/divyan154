@@ -1,50 +1,85 @@
-# Namaste! I'm Divyansh Sharma 👋
+# Hi, I'm Divyansh Sharma 👋  
 
-### Full-Stack Developer | AI Enthusiast | IIT(ISM) Dhanbad 
-
-I am a passionate and results-driven Full-Stack Developer with a keen interest in integrating Artificial Intelligence to build intelligent and scalable web applications. I am actively seeking full-time opportunities in Japan and India where I can apply my skills to solve real-world problems.
-
-With a strong foundation in both front-end and back-end technologies, I thrive on creating seamless user experiences and robust, efficient server-side logic. My projects demonstrate a commitment to clean code, modular design, and the use of modern frameworks.
+🎓 Final Year Student @ IIT (ISM) Dhanbad (Mech '24)  
+💻 Aspiring *Full-Stack Developer* | Exploring *AI-Powered Applications*  
+🌏 Open to opportunities in *India 🇮🇳* and *Japan 🇯🇵*  
 
 ---
 
-### 💻 My Tech Stack
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| *Languages* | JavaScript, Python, C++, HTML, CSS,Java |
-| *Front-end* | React, Next.js, HTML5, CSS3, JavaScript |
-| *Back-end* | Node.js, Express.js, FastApi |
-| *Databases* | MongoDB, PostgreSQL, Supabase, Appwrite, MySql|
-| *Frameworks* | Next.js, Express.js |
-| *Tools & Platforms* | AWS, Git, GitHub, Vercel, Heroku, RESTful APIs, Visual Studio Code |
+## 🚀 About Me
+- 🔭 Currently building *scalable full-stack apps* with *MERN & Next.js*  
+- 🤖 Exploring *AI integration* (Gemini API, NLP, Chatbots) into web apps  
+- 🌱 Learning *system design* and advanced *cloud deployment* practices  
+- 💡 Passionate about creating apps that are *practical, intelligent, and user-first*  
 
 ---
 
-### 🌟 Featured Projects
+## 🛠 Tech Stack
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| *aiblogApp* | A full-stack web application that leverages Gemini Api to generate blogs. | MERN Stack (Next.js, AppWrite, Tailwind CSS, Clerk) |
-| *learning-management-system* | A Platform like udemy for managing educational content and tracking student progress. | Node.js, Express.js, MongoDB, EJS, Tailwind CSS |
-| *yelpCamp* | A full Stack Web application for reviewing and sharing campgrounds, featuring user authentication, map integration, and an intuitive UI. | Node.js, Express.js, MongoDB, AWS, Passport.js |
+*Languages & Runtime*  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+*Frontend*  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+*Backend & Databases*  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+
+*AI & Tools*  
+![Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📌 Featured Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyan154&show_icons=true&theme=radical&count_private=true&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyan154&layout=compact&theme=radical)
+### 📰 [aiblogApp](https://github.com/divyan154/aiblogApp)
+*Full-stack AI-powered blogging app* that leverages *Gemini API* to generate content.  
+- ✨ MERN Stack (Next.js, Appwrite, Tailwind, Clerk)  
+- 🧠 AI-assisted blog generation with authentication  
+- 🌍 Demonstrates full-stack + AI integration skills  
 
 ---
 
-### 🤝 Connect with me
+### 🎓 [learning-management-system](https://github.com/divyan154/learning-management-system)
+An *educational platform like Udemy*, built for managing content and tracking progress.  
+- ⚙ Node.js, Express.js, MongoDB, Tailwind CSS  
+- 👨‍🏫 Instructor-student roles, course CRUD, progress tracking  
+- 🚀 Shows ability to design *scalable educational tech systems*  
 
-[LinkedIn](https://www.linkedin.com/in/divyan154/) | [Twitter](https://x.com/Divyans57775024) | [Email](mailto:divyansharma@gmail.com)
-* (Note: Replace with your actual email address)
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyan154&style=flat-square&color=blue" alt="Profile views counter">
-</p>
+### 🏕 [yelpCamp](https://github.com/divyan154/yelpCamp)
+A *campground sharing & reviewing app* with rich features.  
+- 🔑 Authentication using Passport.js  
+- 🗺 Map integration & image uploads (AWS)  
+- 📦 Node.js, Express, MongoDB stack  
+- 🧩 Demonstrates *end-to-end system design + cloud integration*  
+
+---
+
+## 📊 GitHub Snapshot  
+
+![Divyansh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyan154&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyan154&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyan154/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js%20%2B%20Tailwind-000?style=flat)](#) (Coming Soon)  
+
+---
+
+✨ On a mission to build full-stack applications that are intelligent, scalable, and impactful.
