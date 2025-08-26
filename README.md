@@ -1,16 +1,50 @@
-## Hi there 👋
+# Namaste! I'm Divyansh Sharma 👋
 
-<!--
-**divyan154/divyan154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | IIT(ISM) Dhanbad | AI Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate and results-driven Full-Stack Developer with a keen interest in integrating Artificial Intelligence to build intelligent and scalable web applications. Currently a student at IIT (ISM) Dhanbad, I am actively seeking full-time opportunities in Japan and India where I can apply my skills to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong foundation in both front-end and back-end technologies, I thrive on creating seamless user experiences and robust, efficient server-side logic. My projects demonstrate a commitment to clean code, modular design, and the use of modern frameworks.
+
+---
+
+### 💻 My Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| *Languages* | JavaScript, Python, C++, HTML, CSS |
+| *Front-end* | React, Next.js, HTML5, CSS3, JavaScript |
+| *Back-end* | Node.js, Express.js |
+| *Databases* | MongoDB, Mongoose, PostgreSQL |
+| *Frameworks* | Next.js, Express.js |
+| *Tools & Platforms* | Git, GitHub, Vercel, Heroku, RESTful APIs, Visual Studio Code |
+
+---
+
+### 🌟 Featured Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| *aiblogApp* | A full-stack web application that leverages Gemini Api to generate blogs. | MERN Stack (Next.js, AppWrite, Tailwind CSS, Clerk) |
+| *learning-management-system* | A platform like udemy for managing educational content and tracking student progress. | Node.js, Express.js, MongoDB, EJS, Tailwind CSS |
+| *yelpCamp* | A web application for reviewing and sharing campgrounds, featuring user authentication, map integration, and an intuitive UI. | Node.js, Express.js, MongoDB, AWS, Passport.js |
+
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyan154&show_icons=true&theme=radical&count_private=true&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyan154&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/divyan154/) | [Twitter](https://x.com/Divyans57775024) | [Email](mailto:divyansharma@gmail.com)
+* (Note: Replace with your actual email address)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyan154&style=flat-square&color=blue" alt="Profile views counter">
+</p>
