@@ -1,7 +1,7 @@
 # Hi, I'm Divyansh Sharma 👋  
 
-🎓 Final Year Student @ IIT (ISM) Dhanbad (Mech '24)  
-💻 Aspiring *Full-Stack Developer* | Exploring *AI-Powered Applications*  
+🎓 IIT (ISM) Dhanbad (Mech '24)  
+💻 Aspiring *Full-Stack Developer* | AI Enthusiast  
 🌏 Open to opportunities in *India 🇮🇳* and *Japan 🇯🇵*  
 
 ---
@@ -78,7 +78,8 @@ A *campground sharing & reviewing app* with rich features.
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyan154/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Next.js%20%2B%20Tailwind-000?style=flat)](#) (Coming Soon)  
+ | [Twitter](https://x.com/Divyans57775024)| [Email](mailto:divyansharma@gmail.com)
+
 
 ---
 
