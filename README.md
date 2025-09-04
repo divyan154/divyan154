@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects
 
-### 📰 [aiblogApp](https://github.com/divyan154/aiblogApp)
+### 📰 [AiblogApp](https://github.com/divyan154/aiblogApp)
 *Full-stack AI-powered blogging app* that leverages *Gemini API* to generate content.  
 - ✨ MERN Stack (Next.js, Appwrite, Tailwind, Clerk)  
 - 🧠 AI-assisted blog generation with authentication  
@@ -51,7 +51,7 @@
 
 ---
 
-### 🎓 [learning-management-system](https://github.com/divyan154/learning-management-system)
+### 🎓 [Learning-Management-System](https://github.com/divyan154/learning-management-system)
 An *educational platform like Udemy*, built for managing content and tracking progress.  
 - ⚙ Node.js, Express.js, MongoDB, Tailwind CSS  
 - 👨‍🏫 Instructor-student roles, course CRUD, progress tracking  
@@ -59,7 +59,7 @@ An *educational platform like Udemy*, built for managing content and tracking pr
 
 ---
 
-### 🏕 [yelpCamp](https://github.com/divyan154/yelpCamp)
+### 🏕 [YelpCamp](https://github.com/divyan154/yelpCamp)
 A *campground sharing & reviewing app* with rich features.  
 - 🔑 Authentication using Passport.js  
 - 🗺 Map integration & image uploads (AWS)  
