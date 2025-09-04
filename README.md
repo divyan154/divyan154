@@ -1,4 +1,4 @@
-# Hi, I'm Divyansh Sharma 👋  
+# Hi, I'm Divyansh Sharma (ディヴヤンシュ・シャルマ) 👋  
 
 🎓 IIT (ISM) Dhanbad (Mech '24)  
 💻 Aspiring *Full-Stack Developer* | AI Enthusiast  
