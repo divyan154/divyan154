@@ -51,6 +51,15 @@
 
 ---
 
+### 📰 [Portfolio](https://github.com/divyan154/aiblogApp)
+*Full-stack AI-powered blogging app* that leverages *Gemini API* to generate content.  
+- ✨ MERN Stack (Next.js, Appwrite, Tailwind, Clerk)  
+- 🧠 AI-assisted blog generation with authentication  
+- 🌍 Demonstrates full-stack + AI integration skills
+  
+---
+
+
 ### 🎓 [Learning-Management-System](https://github.com/divyan154/learning-management-system)
 An *educational platform like Udemy*, built for managing content and tracking progress.  
 - ⚙ Node.js, Express.js, MongoDB, Tailwind CSS  
