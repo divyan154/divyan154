@@ -51,11 +51,11 @@
 
 ---
 
-### 📰 [Portfolio](https://github.com/divyan154/aiblogApp)
-*Full-stack AI-powered blogging app* that leverages *Gemini API* to generate content.  
-- ✨ MERN Stack (Next.js, Appwrite, Tailwind, Clerk)  
-- 🧠 AI-assisted blog generation with authentication  
-- 🌍 Demonstrates full-stack + AI integration skills
+### 📰 [Portfolio]https://portfolio-eight-sigma-31.vercel.app)
+*Personal Portfolio Website Made Using Nextjs.  
+- ✨  
+- 🧠  
+- 🌍 
   
 ---
 
