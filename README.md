@@ -53,9 +53,9 @@
 
 ### 📰 [Portfolio]https://portfolio-eight-sigma-31.vercel.app)
 *Personal Portfolio Website Made Using Nextjs.  
-- ✨  
-- 🧠  
-- 🌍 
+- ✨  Used Emailjs library to Handle direct Contact by People.
+- 🧠  Clean code architecture, Separate Components.
+- 🌍 Used React-hook-form to reduce renders.
   
 ---
 
