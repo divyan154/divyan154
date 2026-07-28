@@ -1,7 +1,7 @@
 # Hi, I'm Divyansh Sharma  👋  
 
 🎓 IIT (ISM) Dhanbad 
-💻  *Full-Stack Developer* | AI Enthusiast  
+💻  *Full-Stack Developer* | AI Engineer | Backend Developer  
 🌏 Open to opportunities in *India 🇮🇳*  
 
 ---
