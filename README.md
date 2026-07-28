@@ -1,8 +1,8 @@
-# Hi, I'm Divyansh Sharma (ディヴヤンシュ・シャルマ) 👋  
+# Hi, I'm Divyansh Sharma  👋  
 
 🎓 IIT (ISM) Dhanbad 
-💻 Aspiring *Full-Stack Developer* | AI Enthusiast  
-🌏 Open to opportunities in *India 🇮🇳* and *Japan 🇯🇵*  
+💻  *Full-Stack Developer* | AI Enthusiast  
+🌏 Open to opportunities in *India 🇮🇳*  
 
 ---
 
