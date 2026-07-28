@@ -1,6 +1,6 @@
 # Hi, I'm Divyansh Sharma (ディヴヤンシュ・シャルマ) 👋  
 
-🎓 IIT (ISM) Dhanbad (Mech '24)  
+🎓 IIT (ISM) Dhanbad 
 💻 Aspiring *Full-Stack Developer* | AI Enthusiast  
 🌏 Open to opportunities in *India 🇮🇳* and *Japan 🇯🇵*  
 
