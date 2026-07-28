@@ -51,7 +51,7 @@
 
 ---
 
-### 📰 [Portfolio](http://bit.ly/3TEz65d))
+### 📰 [Portfolio](http://bit.ly/3TEz65d)
 *Personal Portfolio Website Made Using Nextjs.  
 - ✨  Used Emailjs library to Handle direct Contact by People.
 - 🧠  Clean code architecture, Separate Components.
