@@ -10,7 +10,7 @@
 - 🔭 Currently building *scalable full-stack apps* with *MERN , Java, FastApi and Next.js*  
 - 🤖 Exploring *AI integration* (Gemini, Claude, Chatgpt, NLP, Chatbots) into web apps  
 - 🌱 Learning *system design* and advanced *cloud deployment* practices  
-- 💡 Passionate about creating apps that are *practical, intelligent, and user-first*  
+- 💡 Passionate about creating apps that are *Scalable, Concurrent, and user-first*  
 
 ---
 
